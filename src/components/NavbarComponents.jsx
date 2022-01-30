@@ -6,7 +6,7 @@ class NavbarComponents extends Component {
     return (
       <Navbar variant="dark">
         <Container fluid>
-          <Navbar.Brand href="#home">React Bootstrap</Navbar.Brand>
+          <Navbar.Brand href="#home">Baim News</Navbar.Brand>
         </Container>
       </Navbar>
     );
